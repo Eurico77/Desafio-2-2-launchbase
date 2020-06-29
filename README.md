@@ -18,7 +18,7 @@
 ## 💻 Resultado:
 
 <p align="center">
-<img alt="Launchbase" src="ezgif.com-video-to-gif" width="700px" />
+<img alt="Launchbase" src="ezgif.com-video-to-gif.gif" width="700px" />
 </p>
 
 ## 📋 Licença
